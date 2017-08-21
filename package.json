@@ -1,0 +1,15 @@
+{
+  "name": "birds-app",
+  "version": "1.0.0",
+  "description": "my birds app",
+  "main": "birds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amisha Patel",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.15.4"
+  }
+}
