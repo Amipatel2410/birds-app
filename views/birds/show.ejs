@@ -1,0 +1,6 @@
+<h3><%= bird.type %></h3>
+<h3> <%= bird.city %> </h3>
+<h3><%= bird.description %></h3>
+<form method="POST" action="<%= `/birds/${id}?_method=GET` %>">
+  <button type="submit">Add bird</button>
+</form>
